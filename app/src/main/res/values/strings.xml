@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_driver_map_actvity">DriverMapActvity</string>
+    <string name="title_activity_search_aaa">searchAAA</string>
+    <string name="title_activity_iyygglhbl">iyygglhbl</string>
+    <string name="api_key">AIzaSyAwWn7O-LDb47cyvLt-ntiWIUmKdkWsEuQ</string>
+</resources>
